@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "thinc",
+  "versions": [
+    {
+      "commit": "6c38b29924b218140e5c10c2cb77e3ff487b0ffa",
+      "tag": "",
+      "parsed_at": "2026-10-17T06:33:23.411729+00:00"
+    }
+  ]
+}
