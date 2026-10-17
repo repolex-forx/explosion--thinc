@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/thinc/commit/6c38b29924b218140e5c10c2cb77e3ff487b0ffa",
       "git:hexsha": "6c38b29924b218140e5c10c2cb77e3ff487b0ffa",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/explosion/thinc/commit/3fa9045ab9d13581f39d8fd1fca6221771370e88",
